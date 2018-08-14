@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Workflow with NPM, SASS, Gulp and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icestudiosuk/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp",
+    "Git"
+  ],
+  "author": "icestudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icestudiosuk/workflow/issues"
+  },
+  "homepage": "https://github.com/icestudiosuk/workflow#readme"
+}
