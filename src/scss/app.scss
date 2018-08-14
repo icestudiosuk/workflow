@@ -1,5 +1,12 @@
-$black: '#000000';
+$black: #000000;
+$white: #ffffff;
+$grey: #eeeeee;
+$pink: pink;
 
 body {
-  background-color: $black;
+  background-color: $pink;
+}
+
+h1 {
+  color: $black;
 }
