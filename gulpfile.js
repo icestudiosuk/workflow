@@ -41,6 +41,7 @@ gulp.task('sass', function(){
       .pipe(gulp.dest(APPPATH.css));
 });
 
+
 gulp.task('scripts', ['clean-scripts'], function() {
   gulp.src(SOURCEPATH.jsSource)
     .pipe(concat('main.js'))
